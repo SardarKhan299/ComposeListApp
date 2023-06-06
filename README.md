@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # State in Jetpack Compose Codelab
 
 This folder contains the source code for the [State in Jetpack Compose codelab](https://developer.android.com/codelabs/jetpack-compose-state).
@@ -21,3 +22,7 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+=======
+# ComposeListApp
+In this Compose App we create a List and we can remove item from the List and Also can check that items in the list. We used ViewModels to save app state or data accross configuration changes.
+>>>>>>> 826a9fc42f60ea868890acfd0356edb0c09eb666
